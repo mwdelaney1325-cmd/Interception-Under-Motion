@@ -1,252 +1,244 @@
 # Interception-Under-Motion
 A transmission-level framework for alignment, interception, and structural obstruction under irreversible action and motion.
-# Campaign, Interception, and Alignment Under Motion  
-**A Transmission-Level Structural Framework**
+## A Transmission-Level Structural Framework
 
-> **Status:** Structural completion  
-> **Category:** Placement framework (not a solution method)  
-> **Claims:** Structural necessity only  
-> **Readouts:** Intentionally absent  
+**Status:** Structural placement  
+**Category:** Transmission-level description  
+**Claims:** Structural necessity only  
+**Readouts:** Intentionally absent  
 
 ---
 
 ## Abstract
 
-This repository presents a unified **structural framework** for understanding
-alignment, stability, and obstruction in systems characterized by:
+This repository presents a transmission-level structural framework for describing alignment, obstruction, and continuity in contexts where:
 
-- irreversible action,
-- incomplete global information,
-- continuous motion,
-- and internal self-reference constraints.
+- action is irreversible,
+- global state is inaccessible,
+- continuation cannot be suspended,
+- and no agent or description may certify completeness, origin, or finality.
 
-The framework introduces **no new axioms**, proposes **no analytic technique**,
-and claims **no solution** to any open problem.
+No axioms are added.  
+No analytic methods are proposed.  
+No origins or endpoints are assumed.  
 
-Instead, it isolates a **minimal structural primitive — interception under motion —**
-that explains:
+The framework isolates **interception under motion** as a minimal structural requirement that allows continuity without closure, coordination without completeness, and action without certification.
 
-- why totality claims fail when mis-placed,
-- how coordination remains possible without completeness,
-- and why multiple long-standing impossibility results recur across domains.
-
-The framework **structurally unifies**:
-
-- Riemann-type alignment phenomena,
-- Gödel, Russell, and Turing obstructions,
-- Zeno-type non-resolution,
-- economic and AI alignment failures,
-- and human action under uncertainty.
-
-All results are **placement theorems**, not solution claims.  
-No readout is constructed.  
-No total certification is asserted.
+All statements are **placement statements**, not solution claims.  
+Nothing is resolved.  
+Nothing is finalized.
 
 ---
 
-## 1. Scope and Intent
+## 1. Scope
 
-This work operates strictly at the **transmission level**.
+This work operates strictly at the **transmission layer**.
 
-It studies systems in which:
+It describes what must hold in any context where:
 
-- actions commit irreversibly,
-- global truth is inaccessible,
-- continuation is mandatory,
-- and self-certification is forbidden.
+- irreversible commitments occur,
+- prior commitments cannot be globally reversed,
+- continuation persists,
+- and no description has access to total state, total history, or total causality.
 
-The objective is not to resolve such systems,
-but to **correctly place** what is possible, what is forbidden,
-and where known impossibility results arise structurally.
+This is not a theory of systems.  
+It is not a theory of agents.  
+It is not a theory of truth.
+
+It is a description of **what remains structurally possible** under these conditions.
 
 ---
 
-## 2. Standing Structural Assumptions
+## 2. Standing Conditions
 
-Only the following are assumed:
+Only the following conditions are assumed:
 
-1. **Continuation**  
-   The system admits indefinite forward continuation.
+- **Continuation**  
+  Transmission does not terminate.
 
-2. **Inaccessibility of Global State**  
-   No internal agent can access global truth or total system state.
+- **Irreversibility**  
+  Acts, once committed, cannot be undone.
 
-3. **Irreversible Local Commitment**  
-   Actions, once taken, cannot be undone.
+- **Non-Certification**  
+  No internal description may certify correctness, completeness, origin, or finality.
 
-4. **Non-Self-Certification**  
-   No internal object, process, or state may certify its own correctness,
-   completeness, or termination.
-
-5. **Campaign Orientation**  
-   Orientation is preserved under motion even as local anchors move.
+- **Inaccessibility of Global State**  
+  No description has access to total system state, total history, or total causality.
 
 No assumptions are made about:
 
-- metric structure,
+- time,
+- metrics,
 - topology,
 - probability,
-- time,
 - computation,
-- or external observers.
+- origins,
+- or endpoints.
 
 ---
 
 ## 3. Transmission and Campaign
 
-**Transmission** denotes irreversible action under mandatory continuation.
+**Transmission** refers to irreversible commitment under continuation.
 
-**Campaign** is *not* a region, hierarchy, or scale.  
-It is an **alignment mandate**:
+**Campaign** is not a region, hierarchy, or system.  
+It is an **orientation constraint**:
 
-> the capacity to preserve coherence while internal reference points move.
+> Coherence must be preserved while reference points shift under motion.
 
-Campaign does not eliminate uncertainty.  
-It preserves orientation *while uncertainty persists*.
+Campaign does not resolve uncertainty.  
+It prevents collapse while uncertainty persists.
 
 ---
 
-## 4. Interception as a Structural Primitive
+## 4. Objects and Action Under Motion
 
-### Central Claim
+Objects do not exist as fixed entities.
 
-> **Interception is the minimal act that prevents collapse in a transmission
-> system under motion.**
+They exist only **as carried forward under action**.
 
-Structurally, interception:
+Causal relevance is always **local and current**:
 
-- adds no new information,
+- causal attachment is reassigned by action,
+- prior attachments do not persist,
+- no attachment is global or terminal.
+
+No claim is made about first acts.  
+No claim is made about origins.  
+No claim is made about whether there was one act or many.
+
+Only this holds:
+
+> Causal relevance is always relative to the most recent irreversible commitment  
+> and is never globally certifiable.
+
+---
+
+## 5. Interception Under Motion
+
+**Interception** is the minimal structural act that prevents collapse without resolving uncertainty.
+
+Interception:
+
+- adds no information,
 - introduces no certification,
-- resolves no uncertainty,
-- yet prevents collapse at the precise moment required.
+- does not resolve truth,
+- does not stabilize permanently.
 
-Interception is **neither inference nor optimization**.  
-It is stabilization under motion.
+It holds continuity **at the moment continuity would otherwise fail**.
 
----
-
-## 5. Multi-View Necessity (Tri-Gaze / Hex-Gaze)
-
-No system with fewer than **three independent reference stances**
-can maintain alignment under motion.
-
-- Two views cannot coordinate without ambiguity.
-- The minimal configuration requires:
-  - three anchor stances,
-  - realized through six perspective channels  
-    (two sensing channels across three temporal commitments).
-
-This necessity is **structural**, not biological, geometric, or psychological.
+Interception does not stop motion.  
+It allows motion to continue.
 
 ---
 
-## 6. Canonical Obstruction Spine
+## 6. Reference, Alignment, and Multi-View Necessity
 
-All major impossibility results share the same structural spine:
+No single reference stance can maintain alignment under motion.
 
-1. A universe of admissible states  
-2. An internal readout or classifier  
-3. A totality or completeness claim  
-4. Self-access (diagonalization)  
-5. A correctness or alignment constraint  
+Alignment requires a minimal plurality of reference commitments such that:
 
-When all five are present, **obstruction is forced**.
+- no single stance dominates,
+- no pair can fully resolve ambiguity,
+- orientation is preserved through reassignment.
 
-This unifies, at the structural level:
+The minimal structure requires **three anchor commitments**.
 
-- Russell self-reference  
-- Gödel incompleteness  
-- Turing halting  
-- Zeno non-resolution  
-- Arrow-type impossibility  
-- Riemann-class alignment failures  
+How these commitments are realized — sensory, symbolic, inferred — is not fixed.  
+They are **sequentially related**, not temporally required.
 
-They differ only in *where* repair is attempted.
+This structure is minimal, not exhaustive.
 
 ---
 
-## 7. Placement of the Riemann Hypothesis
+## 7. Obstruction as Structural
 
-Within this framework, the Riemann Hypothesis is **not** primarily a statement
-about zeros.
+Obstruction is not failure.  
+Obstruction is not error.  
+Obstruction is not breakdown.
 
-It is a **campaign-level alignment constraint**:
-coherence under infinite transport across admissible views.
+Obstruction arises when:
 
-A counterexample would require at least one of the following:
+- continuation persists,
+- certification is attempted,
+- and closure is presumed.
 
-- privileging a single view,
-- breaking transport symmetry,
-- allowing premature certification,
-- violating campaign orientation.
-
-RH therefore occupies a distinct obstruction class:
-neither logical, computational, nor semantic,
-but **alignment-structural**.
+This is not pathological.  
+It is a structural consequence of the standing conditions.
 
 ---
 
-## 8. Totality (Clarified)
+## 8. Totality (Placed)
 
-Totality is **not forbidden**.
+Totality is neither assumed nor denied.
 
-It is **contextual**.
+A totality question is admissible **only when**:
 
-A totality question is admissible *only if*:
+- it does not pre-empt the act that would give it meaning,
+- it does not certify what cannot be certified,
+- and it arises after irreversible commitments are already in place.
 
-- its assumptions are aligned,
-- the window of action remains open,
-- the answer does not pre-empt the act that generated the question.
+Outside this placement, totality questions generate obstruction.  
+Within this placement, totality is allowed — but not yet accessible.
 
-- Asked too early → paradox  
-- Asked too late → loss of agency  
-
-This resolves apparent contradictions across economics,
-optimization, and alignment theory.
+At present, that placement has not been reached.
 
 ---
 
-## 9. Human Perception and Action (Structural Placement)
+## 9. Description, Updating, and Continuation
 
-Human action operates across three interacting layers:
+After an act, descriptions may update — or may not.
 
-- what is true,
-- what is believed,
-- what is perceived.
+Updating is optional.  
+Non-updating is allowed.  
+Structural obstruction to updating is allowed.
 
-No agent accesses global truth.  
-Action proceeds through **interception under motion**.
+None of these alter the carried object.  
+They alter only relational alignment between descriptions.
 
-This is **not** a cognitive theory.  
-It is a theory of **structural coordination under uncertainty**.
-
----
-
-## 10. What This Framework Does *Not* Do
-
-- It does not solve RH analytically.
-- It does not propose a new logic.
-- It does not replace existing mathematics.
-- It does not offer a universal optimizer.
-- It does not claim completeness.
+Continuation does not require agreement.  
+It requires only that action remain possible.
 
 ---
 
-## 11. Status
+## 10. Riemann-Type Placement (Indicative)
 
-This framework represents a **structural completion**.
+Within this framework, Riemann-type questions are not treated as analytic statements about objects.
 
-No additional primitives are required.  
-Future work is **translational**, not foundational.
+They are **alignment constraints under infinite transport**, where:
+
+- no single reference stance may dominate,
+- no premature certification is permitted,
+- and continuation persists without closure.
+
+Nothing is solved.  
+Nothing is ruled out.
+
+The question is placed.
 
 ---
 
-## 12. Closing Statement
+## 11. What This Framework Does Not Do
 
-Systems fail when they attempt to certify what can only be held.  
-They succeed when they intercept collapse without claiming resolution.
+- It does not define origins.
+- It does not define systems.
+- It does not define truth as an object.
+- It does not certify outcomes.
+- It does not terminate transmission.
 
-This framework formalizes that distinction.
+---
+
+## Closing
+
+Nothing here fails.  
+Nothing here succeeds.
+
+Transmission continues.
+
+Interception holds continuity where collapse would otherwise occur,  
+without claiming resolution.
+
+That is the structure described.
 
 ---
 
